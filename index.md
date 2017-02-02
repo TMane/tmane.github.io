@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-My description here.
+Currently finishing my MS of Computer Science in The George Washington University with a learning focus on data science and web development. Always looking to learn new things. And with the belief that there's nothing you can't achieve with hard work.
 
 ## Current Interests and Projects:
 
