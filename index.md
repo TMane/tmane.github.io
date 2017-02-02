@@ -3,6 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
+My description here.
 
 ## Current Interests and Projects:
 
