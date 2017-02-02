@@ -8,14 +8,14 @@ logo:             # filename of a logo image that has been placed into your imag
 # Enter the following platform usernames if you would like for them to appear on your site.
 # Remove the hashtag symbol and then enter the username, without the @ symbol or quotation marks. Only the bio is in quotation marks.
 owner:
-  name: Your Name
+  name: Manuel Perez
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Experienced programmer and apprentice of Data Science. Working everyday to make the world an easier place to live with. Give me a call and I'll answer."
+  email: mafrpego@gmail.com
   twitter: #username
   facebook: #username
   instagram: #username
-  linkedin: #username
+  linkedin: manperez
   github: #username
   researchgate: #username
   mendeley: #username
